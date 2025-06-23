@@ -1,6 +1,6 @@
 //PHIHLELLO jUNAID MAROGA
 //STUDENT :219354359
-//
+//Group : KN13
 package za.ac.cput.domain;
 
 public class Customer {
