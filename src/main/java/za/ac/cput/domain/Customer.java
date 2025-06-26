@@ -10,7 +10,7 @@ public class Customer {
     private Customer(){
 
     }
-    public Customer(Builder builder){
+    private Customer(Builder builder){
         this.address = builder.address;
         this.contactNumber = builder.contactNumber;
     }
