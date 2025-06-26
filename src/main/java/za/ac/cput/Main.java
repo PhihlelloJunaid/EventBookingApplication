@@ -7,7 +7,7 @@ import za.ac.cput.factory.CustomerFactory;
 public class Main {
     public static void main(String[] args) {
         Customer customer = CustomerFactory.createCustomer("10 Dorset street ",711343965);
-        if(customer == null) {
+        {
             System.out.println(customer.toString());
         }
         }
